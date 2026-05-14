@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "201720814819",
+    "project_id": "nammapride-798c3",
+    "storage_bucket": "nammapride-798c3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201720814819:android:1fd92dccf47bb8923e39d6",
+        "android_client_info": {
+          "package_name": "com.example.nammapride"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQoxNHcrUCoFYVfbH2epLABA7cg-2w-BM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
